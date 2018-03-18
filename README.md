@@ -1,2 +1,2 @@
 # groceryList
-DeadSimple VANILLA Javascript programm (includes localStorage)
+DeadSimple VANILLA Javascript   grocery list (includes localStorage)
